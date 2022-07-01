@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "NoSQL Social Network App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anchoviess"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anchoviess"
+  },
+  "homepage": "https://github.com/Anchoviess",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.18"
+  }
+}
