@@ -10,8 +10,8 @@
    - Express.js
 
 ## Instructions 
-   Install MongoDB
-   Run the following commands in the integrated terminal (Visual Studio Code)
+    Install MongoDB
+    Run the following commands in the integrated terminal (Visual Studio Code)
         - npm init -y
         - npm install express
         - npm install mongoose
