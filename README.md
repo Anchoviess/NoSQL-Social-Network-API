@@ -34,10 +34,12 @@ This is an API for a social network web application where users can share their 
 <img width="1440" alt="Screen Shot 2022-07-01 at 5 13 46 PM" src="https://user-images.githubusercontent.com/97990379/176979396-6fba8db8-263b-4ff7-bf92-3272e1f619fc.png">
 
 
-
-    
-
 ### Walkthrough Video
+
+
+https://user-images.githubusercontent.com/97990379/176979479-8b5eb860-2e2a-4834-bd25-1d43849c603e.mov
+
+
 
    
 
