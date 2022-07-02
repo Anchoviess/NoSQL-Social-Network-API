@@ -1,10 +1,10 @@
 # NoSQL-SocialNetwork-API
 
-This is an API for a social network web application where users can share their thoughts, react to friends' thoughts, and create a friend list. It utilizes a NoSQL database to handle large amounts of unstructured data.
+This is an API for a social network web application where users can share their thoughts, react to friends' thought's, and create a friend list. It utilizes a NoSQL database to handle large amounts of unstructured data.
 
 ## Description
 
-  - NoSQL-SocialNetwork-API is a backend database that is designed to use with a social media application. Users can post thoughts, while other users can post reactions to those thoughts. This app is a social network which allows users to create thoughts and react to other peoples thoughts. When the User enters the command to invoke the application, the server is started and Mongoose models are synced to the MongoDB database. When the User opens API GET routes in Insomnia for 'users' and 'thoughts', the data for each of these routes is displayed in a formatted JSON. When the User tests API 'POST', 'PUT' and 'DELETE' routes in Insomnia, then they are able to successfully create, update and delete users and thoughts in the database. When the User tests API 'POST' and 'DELETE' routes in Insomnia, then they are able to successfully create and delete reactions to thoughts and add and remove friends to a user's friend list.
+  MongoDB is a popular choice for many social networks due to its speed with large amounts of data and flexibility with unstructured data. NoSQL Social Network API is a backend database that is designed to use with a social media application. Users can post thoughts, while other users can post reactions to those thoughts. This app is a social network which allows users to create thoughts and react to other peoples thoughts. When the User enters the command to invoke the application, the server is started and Mongoose models are synced to the MongoDB database. When the User opens API GET routes in Insomnia for 'users' and 'thoughts', the data for each of these routes is displayed in a formatted JSON. When the User tests API 'POST', 'PUT' and 'DELETE' routes in Insomnia, then they are able to successfully create, update and delete users and thoughts in the database. When the User tests API 'POST' and 'DELETE' routes in Insomnia, then they are able to successfully create and delete reactions to thoughts and add and remove friends to a user's friend list.
   
 ## Built With
 
