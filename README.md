@@ -24,7 +24,8 @@ This is an API for a social network web application where users can share their 
     - Open Insomnia Core to test API routes
     - Create New requests: GET, POST and PUT to visualize and manipulate the data pulled from the database.
 
-## Screenshot
+## Screenshots
+
 <img width="1440" alt="Screen Shot 2022-07-01 at 5 13 35 PM" src="https://user-images.githubusercontent.com/97990379/176979385-550fe656-acd9-457e-90a7-367866788936.png">
 
 <img width="1440" alt="Screen Shot 2022-07-01 at 5 14 20 PM" src="https://user-images.githubusercontent.com/97990379/176979390-703bed57-646f-4a30-8973-7fb98de4c35d.png">
